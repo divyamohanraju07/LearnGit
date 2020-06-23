@@ -1,0 +1,29 @@
+.sectionheader {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.headerTitle {
+    font-size: 18px;
+    color: #a8abbd;
+    margin: 0;
+    /* float: left; */
+    margin-top: 4px;
+    padding: 12px 30px 12px 20px;
+    /* position: relative; */
+}
+
+.formSection {
+
+    margin-bottom: 30px;
+
+}
+
+.antSection {
+    border-radius: 8px !important;
+    background: #fff;
+    border: 1px solid #d7d9e5 !important;
+    box-shadow: 0 10px 30px -15px #d7d9e5;
+    padding: 0 30px;
+}
